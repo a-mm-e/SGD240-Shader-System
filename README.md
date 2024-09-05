@@ -1,0 +1,2 @@
+Contained within this GitHub repository is my SGD240 Shader System project. Further information on the project can be found in the project journal via the Wiki. Any information regarding the project's workflow can be found on the Trello board, which has been shared with the relevant people. <br>
+To date, this repository contains the work achieved throughout Sprint 1 and each commit has been dated accordingly. Issues were encountered that prevented commits from happening frequently. Going into Sprint 2, commits will now happen frequently as that issue has been solved. 
